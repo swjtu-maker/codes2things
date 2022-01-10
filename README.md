@@ -1,3 +1,9 @@
+---
+title: home
+has_children: false
+nav_order: 0
+---
+
 # Home
 A Course about how to make thins from codes ,and making it to be a innovation.
 
