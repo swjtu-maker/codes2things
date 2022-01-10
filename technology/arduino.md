@@ -1,8 +1,8 @@
 ---
 title: Arduino
-parent: maker
+parent: technology
 has_children: false
-nav_order: 1
+nav_order: 3
 ---
 
 # Child of test
