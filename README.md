@@ -1,3 +1,7 @@
+---
+title: 首页
+nav_order: 99
+---
 
 # Home
 A Course about how to make thins from codes ,and making it to be a innovation.
